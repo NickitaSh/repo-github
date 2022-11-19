@@ -38,7 +38,11 @@ git log --oneline
 
     git checkout
 
+## Переход на версию master
 
+Чтобы перей ти к версии master введите команду:
+
+    git checkout master
 
 
 
