@@ -46,4 +46,4 @@ git log --oneline
     git checkout master
 
 
-
+Чтобы создать новую ветку нужно..
