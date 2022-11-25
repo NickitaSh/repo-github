@@ -63,10 +63,9 @@ git log --oneline
 
     git branch --no-merged
 
-## Удалние ветки
+## Удалние веток
 
 Чтобы удалить ветку наберите коанду
 
     git branch -d <имя ветки>
 
-ee
