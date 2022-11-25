@@ -52,4 +52,9 @@ git log --oneline
     git branch <name branch>
 
         or 
-  hg
+  
+  ## Состояние веток
+
+  Чтобы узнать состояние веток наберите комманду
+
+    git branch --merged
