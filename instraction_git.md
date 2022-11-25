@@ -63,3 +63,5 @@ git log --oneline
 
     git branch --no-merged
 
+## Удалние веток
+
