@@ -50,3 +50,5 @@ git log --oneline
 Чтобы создать новую ветку нужно..
 
     git branch <name branch>
+
+        or 
