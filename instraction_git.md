@@ -45,5 +45,8 @@ git log --oneline
 
     git checkout master
 
+## Ветвление
 
 Чтобы создать новую ветку нужно..
+
+    git branch <name branch>
