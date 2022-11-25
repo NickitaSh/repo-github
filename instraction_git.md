@@ -63,3 +63,4 @@ git log --oneline
 
     git branch --no-merged
 
+## Удаление ветки
